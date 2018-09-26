@@ -1,0 +1,84 @@
+C:\Users\user\Desktop\New folder\mmmm\WindowsApplication12\WindowsApplication12\bin\Debug\WindowsApplication12.exe.config
+C:\Users\user\Desktop\New folder\mmmm\WindowsApplication12\WindowsApplication12\obj\Debug\WindowsApplication12.vbprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\New folder\mmmm\WindowsApplication12\WindowsApplication12\obj\Debug\WindowsApplication12.Resources.resources
+C:\Users\user\Desktop\New folder\mmmm\WindowsApplication12\WindowsApplication12\obj\Debug\WindowsApplication12.vbproj.GenerateResource.Cache
+C:\Users\user\Desktop\New folder\mmmm\WindowsApplication12\WindowsApplication12\obj\Debug\WindowsApplication12.xml
+C:\Users\user\Desktop\New folder\mmmm\WindowsApplication12\WindowsApplication12\bin\Debug\WindowsApplication12.exe
+C:\Users\user\Desktop\New folder\mmmm\WindowsApplication12\WindowsApplication12\bin\Debug\WindowsApplication12.pdb
+C:\Users\user\Desktop\New folder\mmmm\WindowsApplication12\WindowsApplication12\bin\Debug\WindowsApplication12.xml
+C:\Users\user\Desktop\New folder\mmmm\WindowsApplication12\WindowsApplication12\obj\Debug\WindowsApplication12.Login.resources
+C:\Users\user\Desktop\New folder\mmmm\WindowsApplication12\WindowsApplication12\obj\Debug\WindowsApplication12.exe
+C:\Users\user\Desktop\New folder\mmmm\WindowsApplication12\WindowsApplication12\obj\Debug\WindowsApplication12.pdb
+C:\Users\user\Desktop\New folder\mmmm\WindowsApplication12\WindowsApplication12\obj\Debug\WindowsApplication12.Form2.resources
+C:\Users\user\Desktop\New folder\mmmm\WindowsApplication12\WindowsApplication12\bin\Debug\Interop.CALENDARLib6.dll
+C:\Users\user\Desktop\New folder\mmmm\WindowsApplication12\WindowsApplication12\bin\Debug\AxInterop.CALENDARLib6.dll
+C:\Users\user\Desktop\New folder\mmmm\WindowsApplication12\WindowsApplication12\obj\Debug\Interop.CALENDARLib6.dll
+C:\Users\user\Desktop\New folder\mmmm\WindowsApplication12\WindowsApplication12\obj\Debug\AxInterop.CALENDARLib6.dll
+C:\Users\user\Desktop\New folder\mmmm\WindowsApplication12\WindowsApplication12\obj\Debug\WindowsApplication12.vbproj.ResolveComReference.cache
+C:\Users\user\Desktop\New folder\mmmm\WindowsApplication12\WindowsApplication12\obj\Debug\WindowsApplication12.Form3.resources
+C:\Users\user\Desktop\New folder\mmmm\STUDENT EXPENSES\WindowsApplication12\bin\Debug\WindowsApplication12.exe.config
+C:\Users\user\Desktop\New folder\mmmm\STUDENT EXPENSES\WindowsApplication12\obj\Debug\WindowsApplication12.vbproj.ResolveComReference.cache
+C:\Users\user\Desktop\New folder\mmmm\STUDENT EXPENSES\WindowsApplication12\obj\Debug\WindowsApplication12.exe
+C:\Users\user\Desktop\New folder\mmmm\STUDENT EXPENSES\WindowsApplication12\obj\Debug\WindowsApplication12.xml
+C:\Users\user\Desktop\New folder\mmmm\STUDENT EXPENSES\WindowsApplication12\obj\Debug\WindowsApplication12.pdb
+C:\Users\user\Desktop\New folder\mmmm\STUDENT EXPENSES\WindowsApplication12\bin\Debug\WindowsApplication12.exe
+C:\Users\user\Desktop\New folder\mmmm\STUDENT EXPENSES\WindowsApplication12\bin\Debug\WindowsApplication12.pdb
+C:\Users\user\Desktop\New folder\mmmm\STUDENT EXPENSES\WindowsApplication12\bin\Debug\WindowsApplication12.xml
+C:\Users\user\Desktop\New folder\mmmm\STUDENT EXPENSES\WindowsApplication12\obj\Debug\WindowsApplication12.vbprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\New folder\mmmm\STUDENT EXPENSES\WindowsApplication12\obj\Debug\WindowsApplication12.Login.resources
+C:\Users\user\Desktop\New folder\mmmm\STUDENT EXPENSES\WindowsApplication12\obj\Debug\WindowsApplication12.Form3.resources
+C:\Users\user\Desktop\New folder\mmmm\STUDENT EXPENSES\WindowsApplication12\obj\Debug\WindowsApplication12.Form4.resources
+C:\Users\user\Desktop\New folder\mmmm\STUDENT EXPENSES\WindowsApplication12\obj\Debug\WindowsApplication12.Resources.resources
+C:\Users\user\Desktop\New folder\mmmm\STUDENT EXPENSES\WindowsApplication12\obj\Debug\WindowsApplication12.vbproj.GenerateResource.Cache
+C:\Users\user\Desktop\New folder\mmmm\STUDENT EXPENSES\WindowsApplication12\obj\Debug\WindowsApplication12.Form5.resources
+C:\Users\user\Desktop\New folder\mmmm\STUDENT EXPENSES\WindowsApplication12\obj\Debug\WindowsApplication12.Form6.resources
+C:\Users\user\Desktop\New folder\mmmm\STUDENT EXPENSES\WindowsApplication12\obj\Debug\WindowsApplication12.Main.resources
+C:\Users\user\Desktop\New folder\mmmm\STUDENT EXPENSES\WindowsApplication12\obj\Debug\WindowsApplication12.Form7.resources
+C:\Users\user\Desktop\New folder\mmmm\STUDENT EXPENSES\WindowsApplication12\obj\Debug\WindowsApplication12.Form8.resources
+C:\Users\user\Desktop\New folder\mmmm\STUDENT EXPENSES\WindowsApplication12\obj\Debug\WindowsApplication12.Form9.resources
+G:\mmmm\STUDENT EXPENSES\WindowsApplication12\bin\Debug\WindowsApplication12.exe.config
+G:\mmmm\STUDENT EXPENSES\WindowsApplication12\obj\Debug\WindowsApplication12.vbproj.ResolveComReference.cache
+G:\mmmm\STUDENT EXPENSES\WindowsApplication12\obj\Debug\WindowsApplication12.exe
+G:\mmmm\STUDENT EXPENSES\WindowsApplication12\obj\Debug\WindowsApplication12.xml
+G:\mmmm\STUDENT EXPENSES\WindowsApplication12\obj\Debug\WindowsApplication12.pdb
+G:\mmmm\STUDENT EXPENSES\WindowsApplication12\bin\Debug\WindowsApplication12.exe
+G:\mmmm\STUDENT EXPENSES\WindowsApplication12\bin\Debug\WindowsApplication12.pdb
+G:\mmmm\STUDENT EXPENSES\WindowsApplication12\bin\Debug\WindowsApplication12.xml
+G:\mmmm\STUDENT EXPENSES\WindowsApplication12\obj\Debug\WindowsApplication12.vbprojResolveAssemblyReference.cache
+G:\mmmm\STUDENT EXPENSES\WindowsApplication12\obj\Debug\WindowsApplication12.Login.resources
+G:\mmmm\STUDENT EXPENSES\WindowsApplication12\obj\Debug\WindowsApplication12.Main.resources
+G:\mmmm\STUDENT EXPENSES\WindowsApplication12\obj\Debug\WindowsApplication12.Form3.resources
+G:\mmmm\STUDENT EXPENSES\WindowsApplication12\obj\Debug\WindowsApplication12.Form4.resources
+G:\mmmm\STUDENT EXPENSES\WindowsApplication12\obj\Debug\WindowsApplication12.Form5.resources
+G:\mmmm\STUDENT EXPENSES\WindowsApplication12\obj\Debug\WindowsApplication12.Form6.resources
+G:\mmmm\STUDENT EXPENSES\WindowsApplication12\obj\Debug\WindowsApplication12.Form7.resources
+G:\mmmm\STUDENT EXPENSES\WindowsApplication12\obj\Debug\WindowsApplication12.Form8.resources
+G:\mmmm\STUDENT EXPENSES\WindowsApplication12\obj\Debug\WindowsApplication12.Form9.resources
+G:\mmmm\STUDENT EXPENSES\WindowsApplication12\obj\Debug\WindowsApplication12.Resources.resources
+G:\mmmm\STUDENT EXPENSES\WindowsApplication12\obj\Debug\WindowsApplication12.vbproj.GenerateResource.Cache
+G:\mmmm\STUDENT EXPENSES\WindowsApplication12\obj\Debug\WindowsApplication12.Form10.resources
+G:\mmmm\STUDENT EXPENSES\WindowsApplication12\obj\Debug\WindowsApplication12.Form11.resources
+G:\mmmm\STUDENT EXPENSES\WindowsApplication12\obj\Debug\WindowsApplication12.Form12.resources
+G:\STUDENT EXPENSES\WindowsApplication12\bin\Debug\WindowsApplication12.exe.config
+G:\STUDENT EXPENSES\WindowsApplication12\obj\Debug\WindowsApplication12.vbproj.ResolveComReference.cache
+G:\STUDENT EXPENSES\WindowsApplication12\obj\Debug\WindowsApplication12.exe
+G:\STUDENT EXPENSES\WindowsApplication12\obj\Debug\WindowsApplication12.xml
+G:\STUDENT EXPENSES\WindowsApplication12\obj\Debug\WindowsApplication12.pdb
+G:\STUDENT EXPENSES\WindowsApplication12\bin\Debug\WindowsApplication12.exe
+G:\STUDENT EXPENSES\WindowsApplication12\bin\Debug\WindowsApplication12.pdb
+G:\STUDENT EXPENSES\WindowsApplication12\bin\Debug\WindowsApplication12.xml
+G:\STUDENT EXPENSES\WindowsApplication12\obj\Debug\WindowsApplication12.vbprojResolveAssemblyReference.cache
+G:\STUDENT EXPENSES\WindowsApplication12\obj\Debug\WindowsApplication12.Login.resources
+G:\STUDENT EXPENSES\WindowsApplication12\obj\Debug\WindowsApplication12.Form10.resources
+G:\STUDENT EXPENSES\WindowsApplication12\obj\Debug\WindowsApplication12.Form11.resources
+G:\STUDENT EXPENSES\WindowsApplication12\obj\Debug\WindowsApplication12.Form12.resources
+G:\STUDENT EXPENSES\WindowsApplication12\obj\Debug\WindowsApplication12.Main.resources
+G:\STUDENT EXPENSES\WindowsApplication12\obj\Debug\WindowsApplication12.Form3.resources
+G:\STUDENT EXPENSES\WindowsApplication12\obj\Debug\WindowsApplication12.Form4.resources
+G:\STUDENT EXPENSES\WindowsApplication12\obj\Debug\WindowsApplication12.Form5.resources
+G:\STUDENT EXPENSES\WindowsApplication12\obj\Debug\WindowsApplication12.Form6.resources
+G:\STUDENT EXPENSES\WindowsApplication12\obj\Debug\WindowsApplication12.Form7.resources
+G:\STUDENT EXPENSES\WindowsApplication12\obj\Debug\WindowsApplication12.Form8.resources
+G:\STUDENT EXPENSES\WindowsApplication12\obj\Debug\WindowsApplication12.Form9.resources
+G:\STUDENT EXPENSES\WindowsApplication12\obj\Debug\WindowsApplication12.Resources.resources
+G:\STUDENT EXPENSES\WindowsApplication12\obj\Debug\WindowsApplication12.vbproj.GenerateResource.Cache
